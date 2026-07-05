@@ -1,1 +1,26 @@
 
+https://www.youtube.com/watch?v=TfTDtUse4hU
+
+1) Project -simple backend deployed in vercel
+
+pip install -r requirments.txt
+
+"C:\Users\mani\AppData\Local\Microsoft\WindowsApps\python.exe" -m pip install -r requirements.txt 
+
+
+"C:\Users\mani\AppData\Local\Microsoft\WindowsApps\python.exe" -m pip install -r "D:\ws\cursor\saas-bootcamp\requirements.txt" 
+
+
+npm install -g vercel
+
+2) Project 2 
+
+
+uvicorn index:app --reload
+
+python -m pip install uvicorn
+
+"C:\Users\mani\AppData\Local\Microsoft\WindowsApps\python.exe" -m pip install uvicorn
+
+
+"C:\Users\mani\AppData\Local\Microsoft\WindowsApps\python.exe" -m pip install uvicorn fastapi
