@@ -1,0 +1,7 @@
+Ollama: https://www.youtube.com/watch?v=Gj_s2Zj-fjo
+install: ollama software
+ollama ls
+it will pull model from Ollama
+ollama pull deepseek-r1:1.5b
+ollama run deepseek-r1:1.5b
+then give prompt
